@@ -28,6 +28,9 @@
 		"gulp-terser": "^1.2.0",
 		"jshint": "^2.10.2",
 		"jshint-stylish": "2.2.1",
-		"lazypipe": "^1.0.2"
+		"lazypipe": "^1.0.2",
+		"fstream": ">=1.0.12",
+		"js-yaml": ">=3.13.1",
+		"tar": ">=2.2.2"
 	}
 }
