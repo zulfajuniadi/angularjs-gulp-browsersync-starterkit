@@ -1,5 +1,7 @@
 # angularjs-gulp-browsersync-starterkit
 
-A starterkit for AngularJS, browsersync and gulp
+A starter kit for AngularJS, browsersync and gulp
 
-Clone, npm install the gulp watch to start developing
+1. `git clone` this repo 
+1. `npm install` to install the dependencies
+1. `gulp watch` to start developing
